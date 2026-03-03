@@ -1,12 +1,51 @@
-## Hi there 👋
+# DATAMATA
 
-<!--
+### From Perception to Precision.
 
-**Here are some ideas to get you started:**
+Datamata builds infrastructure for real-world vision systems.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We create modular, production-ready tools for detection, segmentation, pose, classification, and multi-task vision pipelines — built to run from edge devices to enterprise systems.
+
+---
+
+## Projects
+
+### 🔹 MATA  
+Model-Agnostic Task Architecture  
+Unified runtime for vision tasks.
+
+### 🔹 KACA  
+CNN-first training and inference stack.
+
+### 🔹 MATAVISION  
+End-to-end deployment and pipeline system.
+
+---
+
+## What We Focus On
+
+- Model-agnostic runtime
+- Standardized output schemas
+- Downloadable model packs
+- Real-time inference
+- Edge + server deployment
+- Active learning pipelines
+
+---
+
+## Get Started
+
+We still working on our docs, Please visit our Repo Documentations.
+
+---
+
+## Contributing
+
+We welcome contributions from the community.  
+Feel free to open issues, submit PRs, or propose integrations.
+
+---
+
+## Mission
+
+Build vision systems that scale.
