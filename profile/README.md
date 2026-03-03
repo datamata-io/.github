@@ -8,20 +8,6 @@ We create modular, production-ready tools for detection, segmentation, pose, cla
 
 ---
 
-## Projects
-
-### 🔹 MATA  
-Model-Agnostic Task Architecture  
-Unified runtime for vision tasks.
-
-### 🔹 KACA  
-CNN-first training and inference stack.
-
-### 🔹 MATAVISION  
-End-to-end deployment and pipeline system.
-
----
-
 ## What We Focus On
 
 - Model-agnostic runtime
@@ -30,19 +16,6 @@ End-to-end deployment and pipeline system.
 - Real-time inference
 - Edge + server deployment
 - Active learning pipelines
-
----
-
-## Get Started
-
-We still working on our docs, Please visit our Repo Documentations.
-
----
-
-## Contributing
-
-We welcome contributions from the community.  
-Feel free to open issues, submit PRs, or propose integrations.
 
 ---
 
